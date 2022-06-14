@@ -4,6 +4,7 @@ ublic class Visual{
 		// TODO Auto-generated method stub
 
 		System.out.println("Am  here to learn jenkins and git ");
+		System.out.println("let me check if this works");
 		
 		
 		
