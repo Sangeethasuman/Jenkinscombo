@@ -1,0 +1,14 @@
+ublic class Visual{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Am  here to learn jenkins and git ");
+		
+		
+		
+		
+		
+	}
+
+}
